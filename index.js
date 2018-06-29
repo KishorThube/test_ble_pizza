@@ -1,9 +1,9 @@
 var name = 'PizzaSquat';
-var pizzaServiceUuid = '13333333333333333333333333333337';
+var pizzaServiceUuid = '582f2d98-fc9e-11e3-846a-b2227cce2b54';
 var characteristics = { 
-  crust: '13333333333333333333333333330001',
-  toppings: '13333333333333333333333333330002',
-  bake: '13333333333333333333333333330003' 
+  crust: 'dcdaa3b6-fd47-11e3-9751-b2227cce2b54',
+  toppings: 'dcdaa5b4-fd47-11e3-9751-b2227cce2b54',
+  bake: 'dcda9e84-fd47-11e3-9751-b2227cce2b54' 
 };
 var PizzaBakeResult = {
   HALF_BAKED: 0,
